@@ -14,7 +14,7 @@
 ### - Project
 | name | link |
 | -- | -- |
-| 오늘의 레시피 [개인화 레시피 추천 서비스] | Modeling - [Kobert](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-10/tree/main/Model/kobert_rec) / [Catboost](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-10/tree/main/Model/catboost_recipe_classifier)<br>frontend - [link](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-10/tree/main/Frontend) |
+| 오늘의 레시피 [개인화 레시피 추천 서비스] | Modeling - [Kobert](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-10/tree/main/Model/kobert_rec) / [Catboost](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-10/tree/main/Model/catboost_recipe_classifier)<br>frontend - [link](https://github.com/boostcampaitech5/level3_recsys_finalproject-recsys-10/tree/main/Frontend)<br> Blog - [Catboost](https://brothergyu.github.io/boostcamp_ai/final_project_catboost/) |
 | Books Recommendation Platform[toy project] | GitHub - [link](https://github.com/BrotherGyu/Books_Recommendation_Platform)<br>Demo - [link](https://brothergyu-books-recommendation-platform-book-recapp-d0pqn9.streamlit.app/) |
 
 
