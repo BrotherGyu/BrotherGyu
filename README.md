@@ -5,8 +5,9 @@
 
 
 
-- ETRI research trainee (2022.7 ~ 2022.8)
 - Boost Camp AI TECH 5th [Naver Connect] (2023.3 ~ 2023.8)
+- ETRI research trainee (2022.7 ~ 2022.8)
+
 
 
 
