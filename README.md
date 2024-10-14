@@ -4,11 +4,29 @@
 ### [Portfolio](https://brothergyu.github.io/portfolio/) | [Blog](https://brothergyu.github.io/)
 
 
+<!--
+- ETRI Researcher Assistant (2024.03 ~ )
+- University of Science and Technology(UST), Korea  
+  Master of Engineering in Artificial Intelligence (2024.03 ~ )
+- Boost Camp AI TECH 5th [Naver Connect] (2023.03 ~ 2023.08)
+- ETRI research trainee (2022.07 ~ 2022.08)
+-->
 
-- Boost Camp AI TECH 5th [Naver Connect] (2023.3 ~ 2023.8)
-- ETRI research trainee (2022.7 ~ 2022.8)
+### - Experience
+- **Research Assistant, ETRI**  
+  March 2024 – Present
 
+- **Research Trainee, ETRI**  
+  July 2022 – August 2022
 
+### - Education
+- **University of Science and Technology (UST), Korea**  
+  Master of Engineering in Artificial Intelligence  
+  March 2024 – Present
+
+### - Programs
+- **Boost Camp AI TECH 5th** [Naver Connect]  
+  March 2023 – August 2023
 
 
 
